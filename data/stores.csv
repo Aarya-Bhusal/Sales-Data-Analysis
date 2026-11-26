@@ -1,0 +1,61 @@
+store_id,store_type,region,city,opened_year
+1,Mall,West,Hyderabad,2020
+2,Mall,Central,Chennai,2011
+3,Outlet,North,Delhi,2016
+4,Online Fulfillment,East,Mumbai,2011
+5,Mall,South,Chennai,2017
+6,Flagship,North,Patna,2012
+7,Mall,Central,Lucknow,2023
+8,Flagship,North,Bhopal,2016
+9,Mall,West,Indore,2011
+10,Outlet,West,Jaipur,2024
+11,Outlet,West,Kochi,2014
+12,Online Fulfillment,North,Kochi,2020
+13,Online Fulfillment,North,Hyderabad,2022
+14,Mall,Central,Bengaluru,2020
+15,Mall,South,Mumbai,2015
+16,Mall,Central,Bengaluru,2017
+17,Online Fulfillment,North,Guwahati,2012
+18,Mall,West,Chandigarh,2024
+19,Flagship,West,Pune,2015
+20,Mall,West,Pune,2024
+21,Mall,South,Delhi,2017
+22,Mall,South,Kolkata,2016
+23,Mall,Central,Jaipur,2017
+24,Flagship,South,Pune,2020
+25,Outlet,West,Delhi,2024
+26,Outlet,East,Bhubaneswar,2024
+27,Outlet,West,Bhubaneswar,2022
+28,Outlet,West,Raipur,2022
+29,Mall,South,Delhi,2023
+30,Online Fulfillment,South,Ahmedabad,2023
+31,Flagship,East,Kochi,2019
+32,Mall,North,Patna,2015
+33,Online Fulfillment,Central,Nagpur,2024
+34,Outlet,East,Pune,2024
+35,Mall,West,Guwahati,2016
+36,Online Fulfillment,East,Raipur,2010
+37,Mall,North,Patna,2010
+38,Online Fulfillment,South,Mumbai,2023
+39,Outlet,North,Bhubaneswar,2023
+40,Online Fulfillment,West,Bhubaneswar,2011
+41,Mall,East,Raipur,2023
+42,Online Fulfillment,South,Jaipur,2023
+43,Mall,North,Patna,2010
+44,Outlet,Central,Kochi,2011
+45,Mall,North,Delhi,2021
+46,Mall,East,Raipur,2019
+47,Mall,Central,Lucknow,2019
+48,Online Fulfillment,East,Bhubaneswar,2024
+49,Flagship,North,Ahmedabad,2011
+50,Outlet,West,Surat,2013
+51,Outlet,North,Bhopal,2012
+52,Mall,Central,Kochi,2018
+53,Outlet,North,Delhi,2024
+54,Mall,North,Kochi,2022
+55,Online Fulfillment,Central,Indore,2011
+56,Flagship,Central,Hyderabad,2022
+57,Outlet,North,Bengaluru,2010
+58,Online Fulfillment,West,Delhi,2013
+59,Mall,East,Indore,2021
+60,Outlet,South,Bengaluru,2015
